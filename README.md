@@ -7,9 +7,9 @@ O desafio é composto por três atividades individuais, sendo elas:
 3) Desenvolver um algoritmo que encontre o número de pares de substrings que são anagramas
 
 Para executar essa aplicação basta clonar este repositório
-e abri-lo em sua ide favorita.
+e abri-lo em sua IDE favorita.
 cada desafio foi dividido em um pacote separado, e cada pacote 
-posui sua própria classe main que poderá ser executada.
+possui sua própria classe main que poderá ser executada.
 
 tecnologias utilizadas:
 - Java 11;
